@@ -2,9 +2,9 @@
 
 # Test case goal : To validate user is able to login into sauce demo account and can add any three random items for checkout
 
-# Technical Undersatnding : To run the mentiond tests user should have basic setup with node and playwright and idea of type scripts.
+# Technical Undersatnding : To run the mentiond tests user should have basic setup with node , npm and playwright and should have idea of type scripts.
 
-# Test Implenenation - I have created a single tests but we can break down in smaller scenarios also
+# Test Implenenation - I have created a single tests but we can break down in smaller test case also
   # can have Login as independent test
   # can have selecting 3 random items as an indepnedent test
   # can have chekout as an indepnedent test 
@@ -19,5 +19,5 @@
 
 # Reporting -  Have done the all required configuartion in "playwright.config.ts", in repo you can check under "playwright-report" folders.
 
-# Failure Analysis - Have 
+# Failure Analysis - Have done the all required configuartion in "playwright.config.ts", on failure we are capturing steps and videos for the same.
  
